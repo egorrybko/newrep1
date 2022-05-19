@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erybko\\Desktop\\Calc\\Calc.csproj",
+      "projectUniqueName": "C:\\Users\\erybko\\Desktop\\newrep1\\Calc\\Calc.csproj",
       "projectName": "Calc",
-      "projectPath": "C:\\Users\\erybko\\Desktop\\Calc\\Calc.csproj",
+      "projectPath": "C:\\Users\\erybko\\Desktop\\newrep1\\Calc\\Calc.csproj",
       "packagesPath": "C:\\Users\\erybko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erybko\\Desktop\\Calc\\obj\\",
+      "outputPath": "C:\\Users\\erybko\\Desktop\\newrep1\\Calc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

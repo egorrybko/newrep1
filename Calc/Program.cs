@@ -14,6 +14,10 @@ namespace Calc
             a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите второе число:");
             b = Convert.ToInt32(Console.ReadLine());
+            if(b == 0)
+            {
+                Console.WriteLine("Внимание b = 0, деление невозможно!");
+            }
             Console.WriteLine("Выбирете действие: + - * /");
             d = Convert.ToChar(Console.ReadLine());
             if(d == '+')
