@@ -6,7 +6,7 @@ namespace Calc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Привет, я калькулятор!");
+            Console.WriteLine("Привет, я калькулятор! Меня зовут Том." );
             int a = 0;
             int b = 0;
             char d;
